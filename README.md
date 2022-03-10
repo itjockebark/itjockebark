@@ -1,6 +1,4 @@
 ### Hi there 👋
-### <
-[linkedin]:https://www.linkedin.com/in/joakim-barkfj%C3%A4rd-5b1a24224
 <!--
 **itjockebark/itjockebark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
