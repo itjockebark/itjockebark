@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello and welcome to my GitHub 👋
 <--
+Connect with me
+<p align="left">
+<a href = "https://www.linkedin.com/in/joakim-barkfj%C3%A4rd-5b1a24224"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href ="jockebark@msn.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
